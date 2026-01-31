@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background-color: white;
+    height: 100vh;
+}
+.img-2{
+    align-items: center;
+    margin: 23px 50px 0px;
+}
+p{
+    color: green;
+    margin: 40px  0px;
+    align-items: center;
+}
+img{
+    width: 70%;
+    height: 370px;
+}
+.center{
+    text-align: center;
+}
+.text h1{
+    text-align: center;
+}
+.top{
+    padding: 20px 50px;
+}
+.botao button{
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #00ff08;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+button{
+    text-align: center;
+    align-items: center;
+}
+header a:hover{
+    color: black;
+    transform: scale(1.05);
+}
+header a{
+    display: inline-block;
+    transition: 2.s;   
+}
+header{
+    text-align: center;
+}
